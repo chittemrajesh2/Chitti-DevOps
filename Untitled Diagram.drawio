@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.8.6">
-  <diagram name="Page-1" id="7-F5gIdKkT5H21FDeAkE">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.8.6" pages="2">
+  <diagram name="Azure DevOps Architecture_Daimler_Truck" id="7-F5gIdKkT5H21FDeAkE">
     <mxGraphModel dx="2788" dy="883" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -352,9 +352,17 @@
             <mxPoint x="-535" y="537" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iP3fEDapXQPT6JjqyU51-490" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="530" width="20" height="20" as="geometry" />
+        <mxCell id="iP3fEDapXQPT6JjqyU51-492" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.github_code;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="267" width="50" height="50" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="NWck8O-SxtzVwBCu5ToA" name="Page-2">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
