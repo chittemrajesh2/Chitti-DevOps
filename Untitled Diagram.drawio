@@ -276,7 +276,7 @@
           <mxGeometry x="859.5" y="147" width="37.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iP3fEDapXQPT6JjqyU51-449" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Resource_Groups.svg;" vertex="1" parent="1">
-          <mxGeometry x="497.1199999999999" y="61" width="43.83" height="41.25" as="geometry" />
+          <mxGeometry x="497.1199999999999" y="58" width="43.83" height="41.25" as="geometry" />
         </mxCell>
         <mxCell id="iP3fEDapXQPT6JjqyU51-450" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
