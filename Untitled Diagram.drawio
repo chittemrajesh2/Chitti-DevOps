@@ -152,7 +152,7 @@
           <mxGeometry x="-676" y="259.5" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iP3fEDapXQPT6JjqyU51-356" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Virtual_Network.svg;" vertex="1" parent="1">
-          <mxGeometry x="466.5" y="725" width="54.02" height="30.25" as="geometry" />
+          <mxGeometry x="463.5" y="733" width="54.02" height="30.25" as="geometry" />
         </mxCell>
         <mxCell id="iP3fEDapXQPT6JjqyU51-358" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/storage/Data_Share_Invitations.svg;" vertex="1" parent="1">
           <mxGeometry x="759.1199999999999" y="797" width="68" height="44.800000000000004" as="geometry" />
