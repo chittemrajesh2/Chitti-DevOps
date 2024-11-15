@@ -267,7 +267,7 @@
           <mxGeometry x="861" y="678" width="37.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iP3fEDapXQPT6JjqyU51-443" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/SQL_Database.svg;" vertex="1" parent="1">
-          <mxGeometry x="863.5" y="499" width="37.5" height="50" as="geometry" />
+          <mxGeometry x="863.5" y="498" width="37.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iP3fEDapXQPT6JjqyU51-446" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/SQL_Database.svg;" vertex="1" parent="1">
           <mxGeometry x="866.5" y="308.5" width="37.5" height="50" as="geometry" />
