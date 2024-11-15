@@ -484,6 +484,18 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="iP3fEDapXQPT6JjqyU51-482" value="DEV" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1124.12" y="470" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iP3fEDapXQPT6JjqyU51-484" value="TEST" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1125.12" y="632" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iP3fEDapXQPT6JjqyU51-485" value="UAT" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="820" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iP3fEDapXQPT6JjqyU51-487" value="PROD" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="998" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
