@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.8.6" pages="2">
   <diagram name="Azure DevOps Architecture_Daimler_Truck" id="7-F5gIdKkT5H21FDeAkE">
-    <mxGraphModel dx="2259" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2946" dy="1039" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -83,7 +83,7 @@
           <mxGeometry x="-109" y="287" width="55" height="55" as="geometry" />
         </mxCell>
         <mxCell id="iP3fEDapXQPT6JjqyU51-304" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="604" y="417" width="294" height="130" as="geometry" />
+          <mxGeometry x="600" y="417" width="298" height="130" as="geometry" />
         </mxCell>
         <mxCell id="iP3fEDapXQPT6JjqyU51-311" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -213,13 +213,13 @@
           <mxGeometry x="-74" y="287" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="iP3fEDapXQPT6JjqyU51-424" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="594" y="91" width="300" height="106" as="geometry" />
+          <mxGeometry x="600" y="91" width="294" height="106" as="geometry" />
         </mxCell>
         <mxCell id="iP3fEDapXQPT6JjqyU51-425" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="604" y="596" width="295" height="131" as="geometry" />
         </mxCell>
         <mxCell id="iP3fEDapXQPT6JjqyU51-426" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="594" y="247" width="310" height="110" as="geometry" />
+          <mxGeometry x="600" y="247" width="304" height="110" as="geometry" />
         </mxCell>
         <mxCell id="iP3fEDapXQPT6JjqyU51-428" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/App_Services.svg;" vertex="1" parent="1">
           <mxGeometry x="695.5" y="626" width="52" height="52" as="geometry" />
@@ -367,8 +367,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="NWck8O-SxtzVwBCu5ToA" name="Page-2">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram id="NWck8O-SxtzVwBCu5ToA" name="Azure Project Architecture">
+    <mxGraphModel dx="2306" dy="1143" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
