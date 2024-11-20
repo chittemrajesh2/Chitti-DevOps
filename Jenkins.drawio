@@ -172,18 +172,12 @@
         <mxCell id="tWTxLmLye7Xa4t6PKYDe-44" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; background-color: rgb(251, 251, 251);&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22image%3Baspect%3Dfixed%3Bhtml%3D1%3Bpoints%3D%5B%5D%3Balign%3Dcenter%3BfontSize%3D12%3Bimage%3Dimg%2Flib%2Fazure2%2Fdevops%2FApplication_Insights.svg%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%221320%22%20y%3D%221076%22%20width%3D%2240.16%22%20height%3D%2257.5%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; background-color: rgb(251, 251, 251);&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22image%3Baspect%3Dfixed%3Bhtml%3D1%3Bpoints%3D%5B%5D%3Balign%3Dcenter%3BfontSize%3D12%3Bimage%3Dimg%2Flib%2Fazure2%2Fdevops%2FApplication_Insights.svg%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%221320%22%20y%3D%221076%22%20width%3D%2240.16%22%20height%3D%2257.5%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/devops/Application_Insights.svg;" vertex="1" parent="1">
           <mxGeometry x="753.1" y="408.13" width="40.16" height="57.5" as="geometry" />
         </mxCell>
-        <mxCell id="tWTxLmLye7Xa4t6PKYDe-45" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Resource_Groups.svg;" vertex="1" parent="1">
-          <mxGeometry x="379.54" y="258.25" width="36.92" height="34.75" as="geometry" />
-        </mxCell>
         <mxCell id="tWTxLmLye7Xa4t6PKYDe-46" value="" style="curved=1;startArrow=none;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="199" y="344" as="sourcePoint" />
             <mxPoint x="360" y="344" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="tWTxLmLye7Xa4t6PKYDe-47" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/security/Key_Vaults.svg;" vertex="1" parent="1">
-          <mxGeometry x="363.9999999999999" y="313" width="68" height="68" as="geometry" />
         </mxCell>
         <mxCell id="tWTxLmLye7Xa4t6PKYDe-48" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;After Deployment Developer&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&amp;nbsp; &amp;nbsp; Get Email Notification&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-64.5" y="852.4" width="168" height="30" as="geometry" />
@@ -332,9 +326,6 @@
         </mxCell>
         <mxCell id="tWTxLmLye7Xa4t6PKYDe-92" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="-173.5" y="567" width="208.5" height="46" as="geometry" />
-        </mxCell>
-        <mxCell id="tWTxLmLye7Xa4t6PKYDe-93" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Resource_Groups.svg;" vertex="1" parent="1">
-          <mxGeometry x="379.53999999999996" y="459.26" width="36.92" height="34.75" as="geometry" />
         </mxCell>
         <mxCell id="tWTxLmLye7Xa4t6PKYDe-94" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;App Service&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660.75" y="470.13" width="74.5" height="17" as="geometry" />
@@ -497,6 +488,15 @@
         </mxCell>
         <mxCell id="tWTxLmLye7Xa4t6PKYDe-138" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.naturalborncoder.com/wp-content/uploads/2015/05/sonarqube_logo_720-720x200.png;" vertex="1" parent="1">
           <mxGeometry x="-153.75" y="213.44" width="83.25" height="23.12" as="geometry" />
+        </mxCell>
+        <mxCell id="tWTxLmLye7Xa4t6PKYDe-139" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/security/Key_Vaults.svg;" vertex="1" parent="1">
+          <mxGeometry x="365" y="311" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="tWTxLmLye7Xa4t6PKYDe-140" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Resource_Groups.svg;" vertex="1" parent="1">
+          <mxGeometry x="376.75" y="257" width="43.56" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="tWTxLmLye7Xa4t6PKYDe-141" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Resource_Groups.svg;" vertex="1" parent="1">
+          <mxGeometry x="377.75" y="451" width="43.56" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
