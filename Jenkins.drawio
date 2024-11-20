@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.8.6">
   <diagram name="Jenkins" id="ltTIFVDYSYnXKsiDniPg">
-    <mxGraphModel dx="2590" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2274" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -283,7 +283,7 @@
           <mxGeometry x="54" y="295.75" width="160" height="30.25" as="geometry" />
         </mxCell>
         <mxCell id="tWTxLmLye7Xa4t6PKYDe-103" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;While Deploying pipeline Pull Secrets from the Key Vault&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="330" y="660" width="74.5" height="17" as="geometry" />
+          <mxGeometry x="330" y="669" width="74.5" height="17" as="geometry" />
         </mxCell>
         <mxCell id="tWTxLmLye7Xa4t6PKYDe-104" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Approver Can Approve the Deployment Pipeline&amp;nbsp;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-189.25" y="373.5" width="292.25" height="20" as="geometry" />
@@ -310,7 +310,7 @@
           <mxGeometry x="-642" y="330" width="74.5" height="17" as="geometry" />
         </mxCell>
         <mxCell id="tWTxLmLye7Xa4t6PKYDe-112" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;When Code Merged CI Pipeline Auto Trigger&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-467.5" y="372" width="23" height="20" as="geometry" />
+          <mxGeometry x="-467.5" y="373" width="23" height="20" as="geometry" />
         </mxCell>
         <mxCell id="tWTxLmLye7Xa4t6PKYDe-113" value="" style="endArrow=classic;html=1;rounded=0;entryX=1.637;entryY=0.626;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.94;exitY=0.624;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -481,7 +481,7 @@
           <mxGeometry x="385.5" y="183.75" width="51.5" height="22" as="geometry" />
         </mxCell>
         <mxCell id="pR-OqGx_SOGYrUOUP_u6-89" value="&lt;span data-teams=&quot;true&quot;&gt;QSCFMJE-LMSHORIZON-RG&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="438" y="263" width="176" height="6" as="geometry" />
+          <mxGeometry x="430" y="265" width="176" height="6" as="geometry" />
         </mxCell>
         <mxCell id="pR-OqGx_SOGYrUOUP_u6-90" value="&lt;span data-teams=&quot;true&quot;&gt;DSCFMJE-LMSHORIZON-RG&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="433.88" y="119" width="184.25" height="10.75" as="geometry" />
@@ -503,18 +503,6 @@
         </mxCell>
         <mxCell id="pR-OqGx_SOGYrUOUP_u6-95" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Key Vault&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="389" y="648" width="51.5" height="22" as="geometry" />
-        </mxCell>
-        <mxCell id="pR-OqGx_SOGYrUOUP_u6-1" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Resource_Groups.svg;" vertex="1" parent="1">
-          <mxGeometry x="486" y="134.51" width="47" height="44.24" as="geometry" />
-        </mxCell>
-        <mxCell id="pR-OqGx_SOGYrUOUP_u6-2" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Resource_Groups.svg;" vertex="1" parent="1">
-          <mxGeometry x="484.25" y="276.26" width="47" height="44.24" as="geometry" />
-        </mxCell>
-        <mxCell id="pR-OqGx_SOGYrUOUP_u6-4" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Key Vault&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="375.5" y="173.75" width="51.5" height="22" as="geometry" />
-        </mxCell>
-        <mxCell id="pR-OqGx_SOGYrUOUP_u6-5" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Resource Group&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="464" y="251" width="104" height="6" as="geometry" />
         </mxCell>
         <mxCell id="pR-OqGx_SOGYrUOUP_u6-6" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Resource Group&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="455.75" y="179.25" width="104" height="6" as="geometry" />
